@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Explicite_Intent</string>
+    <string name="button_text">Send</string>
+</resources>
